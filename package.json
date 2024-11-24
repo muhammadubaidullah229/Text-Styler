@@ -1,0 +1,21 @@
+{
+  "name": "text-styler",
+  "version": "1.0.0",
+  "description": "A utility function to dynamically style HTML text by updating text, font size, and color",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "styling",
+    "HTML",
+    "utility"
+  ],
+  "author": "muhammadubaidullah229",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-username>/text-styler.git"
+}
+}
